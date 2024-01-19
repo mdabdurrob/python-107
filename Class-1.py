@@ -24,5 +24,3 @@ a = {
     '103':'rasel',
 }
 
-print(a.get("101"))
-print(type(a))
